@@ -1,0 +1,10 @@
+D:\SourceCode\USBControl\USBControl\bin\Debug\USBControl.exe.config
+D:\SourceCode\USBControl\USBControl\bin\Debug\USBControl.exe
+D:\SourceCode\USBControl\USBControl\bin\Debug\USBControl.pdb
+D:\SourceCode\USBControl\USBControl\obj\Debug\USBControl.Form1.resources
+D:\SourceCode\USBControl\USBControl\obj\Debug\USBControl.Properties.Resources.resources
+D:\SourceCode\USBControl\USBControl\obj\Debug\USBControl.csproj.GenerateResource.Cache
+D:\SourceCode\USBControl\USBControl\obj\Debug\USBControl.exe
+D:\SourceCode\USBControl\USBControl\obj\Debug\USBControl.pdb
+D:\SourceCode\USBControl\USBControl\bin\Debug\USBHIDDRIVER.dll
+D:\SourceCode\USBControl\USBControl\bin\Debug\USBHIDDRIVER.pdb
