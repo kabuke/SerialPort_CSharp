@@ -16,3 +16,4 @@ sample photo
 
 https://raw.githubusercontent.com/kabuke/SerialPort_CSharp/master/2016-05-12_121343.png
 https://raw.githubusercontent.com/kabuke/SerialPort_CSharp/master/2016-05-12_121413.png
+https://raw.githubusercontent.com/kabuke/SerialPort_CSharp/master/2016-09-19_095803.jpg
